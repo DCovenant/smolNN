@@ -18,6 +18,11 @@ I chose to create a neural network for the **Iris dataset**. The Iris dataset co
 - Petal length
 - Petal width 
 
+<img width="1505" height="468" alt="image" src="https://github.com/user-attachments/assets/0bbf1aab-3f49-48e4-908d-6ddce9cdb125" />
+Blue -> the expected output.
+Red -> wrong prediction.
+Grey -> predictions other values.
+
 ## Network Architecture
 
 To challenge myself beyond the tutorial, I designed a deeper network with 2 hidden layers (8 and 4 neurons respectively).
